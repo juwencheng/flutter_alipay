@@ -35,5 +35,5 @@ android {
 
 
 dependencies {
-    compile fileTree(include: ['*.aar'], dir: 'libs')
+    implementation 'com.alibaba.alipay:alipaySingle:20160825@jar'
 }
